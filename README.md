@@ -36,5 +36,4 @@ Abra o arquivo `index.html` diretamente no navegador (duplo clique) e pressione 
 
 ## Validação e Entrega
 - Verifique a ausência de erros na aba **Console** do DevTools (`F12`).
-- Valide o arquivo `index.html` no [Validador da W3C](https://validator.w3.org/).
 - Faça o commit e o push na pasta `labs/labXX/` do seu repositório Git e envie o link direto da pasta no Classroom.
